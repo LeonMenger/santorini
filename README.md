@@ -4,14 +4,14 @@ This project was developed for study meanings using vite, vue and typescript.
 
 ## Requirements
 
--   Node.js >= 18
--   npm / pnpm / yarn
+- Node.js >= 18
+- npm / pnpm / yarn
 
 ## Installation
 
 ```bash
-git clone https://github.com/LeonMenger/Santorini.git
-cd project-name
+git clone https://github.com/leonmenger/santorini.git
+cd santorini
 npm install
 ```
 
